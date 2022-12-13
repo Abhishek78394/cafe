@@ -1,0 +1,13 @@
+
+.sub-title{
+  font-family: 'Cormorant Upright';
+  color:#FFFFFF;
+  font-weight: 700;
+  letter-spacing: .1vw;
+  text-transform: capitalize;
+  line-height: 29.9px;
+  font-size: 23px;
+}
+.sub-img {
+  width: 45px;
+}
