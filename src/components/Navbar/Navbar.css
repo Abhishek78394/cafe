@@ -117,6 +117,7 @@
  @media screen and (max-width: 650px) {
     .navbar .menu{
         display: initial;
+        
      }
      .navbar-logo img{
         width: 23vw;

@@ -1,0 +1,53 @@
+
+.laurel{
+    display: flex;
+    padding: 8vw 0;
+    padding-left: 8vw;
+    padding-right: 5vw;
+}
+.laurel-left{
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.laurels-awards {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 5vw;
+}
+.laurels-awards-card{
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 230px;
+    margin: 1vw;
+    gap: 1.2vw;
+}
+
+.card-content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.card-content p:nth-child(2){
+    margin-top: .5vw;
+}
+
+.laurel-img{
+flex: 1;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 3vw;
+}
+.laurel-img img{
+    width:70%;
+}
